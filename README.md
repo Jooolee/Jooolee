@@ -1,6 +1,6 @@
 ### Hi there 👋😊
 
- 💬 Idea: Cooperation合作  Competition竞争 Real求真  Open开放  Optimization最优
+ 💬 Idea: Cooperation  Competition  Real  Open  Optimization
 
 - 🔭 Maybe I’m currently working on
 
