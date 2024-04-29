@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 #### Tools
 
+[![](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)](https://about.gitlab.com/)
 [![](https://img.shields.io/badge/Visual%20Studio%20%20-Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 
 #### Languages
 
+[![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
