@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### Tools
 
-[![](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)](https://about.gitlab.com/)
+[![](https://img.shields.io/badge/Gitlab%20%20-Code-blue?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![](https://img.shields.io/badge/Visual%20Studio%20%20-Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
