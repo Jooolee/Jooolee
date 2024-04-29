@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 #### Languages
 
-[![](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/javascript-blue?logo=javascript)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/typescript-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
